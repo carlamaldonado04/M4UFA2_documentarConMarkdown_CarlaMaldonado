@@ -60,4 +60,4 @@
     
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
         
-![esquemam4].(https://github.com/carlamaldonado04/M4UFA2_documentarConMarkdown_CarlaMaldonado/blob/main/esquemam4.png "esquemam4")        
+![esquemam4].https://github.com/carlamaldonado04/M4UFA2_documentarConMarkdown_CarlaMaldonado/blob/main/esquemam4.png "esquemam4")        
