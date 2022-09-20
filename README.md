@@ -1,12 +1,12 @@
 ## Evaluación inicial ##
 1. ¿Qué es una página web?
 
-  Es un documento  accesible desde cualquier navegador con acceso a internet y es capaz de contener texto, sonido, vídeo, programas, enlaces, etc.
+Es un documento  accesible desde cualquier navegador con acceso a internet y es capaz de contener texto, sonido, vídeo, programas, enlaces, etc.
 
 
 2. ¿Qué es un sitio web?
 
-  Es un conjunto de páginas web relacionadas y comunes a un dominio de internet en la World Wide Web dentro de Internet.  
+Es un conjunto de páginas web relacionadas y comunes a un dominio de internet en la World Wide Web dentro de Internet.  
   
   
 3. ¿Qué es una aplicación web?
