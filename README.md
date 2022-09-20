@@ -19,5 +19,5 @@ Es una aplicación (en local o en linea) que permite editar un texto, una hoja d
 presentación
 
 
-[Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/"hacer clic para acceder a Herramientas de Google")
+[Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "hacer clic para acceder a Herramientas de Google")
 
