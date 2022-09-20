@@ -18,7 +18,7 @@
     Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación
 
 
-[Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "hacer clic para acceder a Herramientas de Google")
+5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "hacer clic para acceder a Herramientas de Google")
 
 | Aplicaciones | Visto |
 |---------|----------|
