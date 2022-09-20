@@ -5,6 +5,7 @@
 
 
 2. ¿Qué es un sitio web?
+
   Es un conjunto de páginas web relacionadas y comunes a un dominio de internet en la World Wide Web dentro de Internet.  
   
   
@@ -16,3 +17,7 @@ Es un programa que se codifica en un lenguaje interpretable por los usuarios web
 
 Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
 presentación
+
+
+[Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/"hacer clic para acceder a Herramientas de Google")
+
